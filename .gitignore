@@ -1,6 +1,6 @@
 # Custom ignore
 dataset/
-*.png
+image.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
